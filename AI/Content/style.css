@@ -1,0 +1,141 @@
+.beginn {
+color : #000;
+}
+.start {
+background-color:#f57EA8;
+}
+.logo img {
+width : 500px;
+height : 300px;
+}
+
+.content {
+
+    width:100%;
+    height : 500px;
+    text-align : center;
+padding : 30px;
+}
+.foot {
+width : 100%;
+height : 100px;
+background-color:#f57EA8; 
+text-align:center;
+}
+.footer2 {
+width : 100%;
+height : 100px;
+background-color:#48B2c9; 
+text-align:center;
+}
+.fo {
+width : 100%;
+height : 100px;
+color:#fff;
+background-color:#292C2f; 
+text-align:center;
+}
+.foot a {
+background: none;
+border : 3px groove #ffd800; 
+border-radius : 10px;
+float : right;
+padding : 30px 60px 30px 60px;
+margin :10px 50px 0 0;
+}
+.a {
+width:100%;
+height: 200px;
+border : 1px groove #fff;
+font-family:Tahoma;
+font:20px;
+padding:30px;
+
+}
+.main-Content {
+width:100%;
+height:400px;
+text-align:center;
+color:#292c2f;
+font-size: 25px;
+}
+
+.portfolio{
+padding-bottom: 30px;
+padding-bottom: 30px;
+text-align: center;
+color: #596568;
+}
+.portfolio .our-work{
+  overflow: hidden;
+}
+.portfolio .our-work div{
+float: left;
+width:33.3333%;
+margin-bottom: 10px;
+margin-top: 30px;
+height : 200px;
+}
+.portfolio .our-work div img { width:90%;margin: 10px;}
+
+.Right-nav {
+    background-color:#292C2f;
+    height:380px;
+    width : 250px;
+    font : 40px;
+    float : right;
+    text-align : center;
+
+}
+ .Right-nav ol li {
+        border : 5px ridge #fff; 
+        display : block;
+        padding : 10px;
+        margin-bottom:30px;
+ }
+
+    .Right-nav ol li :hover {
+    word-spacing:10px;
+    background-color : #fff;
+    color : #e92c7d;
+    }
+
+#wrapper{ width:1140px; font-size:20px;}
+#content {
+    width: 880px;
+
+}
+.article { padding-bottom : 30px; overflow:hidden; width:100%;margin:10px;}
+
+    .article img {
+        float left;
+        margin-bottom:10px;
+        margin-top:10px;
+    }
+    .article .d {
+        float: left;
+        
+    }  
+.sub-title{ color:#292C2f; font-family:CordiaUPC Bold; font-size:35px;}
+.s {
+margin-left:350px;
+
+}
+    .s .btn {
+        margin-left: 230px;
+    }
+table {
+width : 100%;
+text-align : center;
+}
+table tr td{
+border:5px double #cf1b1b;
+padding : 20px;
+}
+.beg {
+background-color:#000;
+color:#fff;
+}
+.ss {
+background-color:#596568;
+}

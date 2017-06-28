@@ -1,0 +1,102 @@
+﻿@{
+    ViewBag.Title = "admNews";
+    Layout = "~/Views/Shared/_FactoryLayout.cshtml";
+}
+<link href="@Url.Content("~/Content/css/normalize.css")" rel="stylesheet" >
+    <link href="@Url.Content("~/Content/css/sty.css")" rel="stylesheet">
+    <script src="@Url.Content("~/Content/jquery/jquery-1.12.2.min.js")"></script>
+    <script src="@Url.Content("~/Content/jquery/jquery-1.12.2.js")"></script>
+
+    <div class="container">
+        <!-- Start Content -->
+        <div class="content">
+            <section class="section1">
+                <h1>Admin Section for Add News</h1>
+                <textarea placeholder="type here.."></textarea>
+                <input  type="submit"/>
+                <hr />
+            </section>
+            <section class="section2">
+                <h1>@ViewBag.Message</h1>
+                <div>
+                    <img src="~/content/img/photo.JPG" />
+                    <button id="firstbutton">V</button>
+                    <nav id="first">
+                        <a href="#">Edit</a>
+                        <a href="#">Remove</a>
+                    </nav>
+                    <p>@ViewBag.editor1_p</p>
+                    <h3>@ViewBag.editor1_name</h3>
+                </div>
+                <div>
+                    <img src="~/content/img/photo.JPG" />
+                    <button id="secondbutton">V</button>
+                    <nav id="second">
+                        <a href="#">Edit</a>
+                        <a href="#">Remove</a>
+                    </nav>
+                    <p>@ViewBag.editor2_p</p>
+                    <h3>@ViewBag.editor2_name</h3>
+                </div>
+                <div>
+                    <img src="~/content/img/photo.JPG" />
+                    <button id="thirdbutton">V</button>
+                    <nav id="third">
+                        <a href="#">Edit</a>
+                        <a href="#">Remove</a>
+                    </nav>
+                    <p>@ViewBag.editor3_p</p>
+                    <h3>@ViewBag.editor3_name</h3>
+                </div>
+                <div>
+                    <img src="~/content/img/photo.JPG" />
+                    <button id="fourthbutton">V</button>
+                    <nav id="fourth">
+                        <a href="#">Edit</a>
+                        <a href="#">Remove</a>
+                    </nav>
+                    <p>@ViewBag.editor4_p</p>
+                    <h3>@ViewBag.editor4_name</h3>
+                </div>
+                <button class="more" id="#load">Load More..</button>
+            </section>
+        </div>
+        <!-- End Content -->
+
+    </div>
+    <script>
+        $(document).ready(function () {
+            $("#firstbutton").click(function () {
+                $("#first").toggle();
+            });
+        });
+        $(document).ready(function () {
+            $("#secondbutton").click(function () {
+                $("#second").toggle();
+            });
+        });
+        $(document).ready(function () {
+            $("#thirdbutton").click(function () {
+                $("#third").toggle();
+            });
+        });
+        $(document).ready(function () {
+            $("#fourthbutton").click(function () {
+                $("#fourth").toggle();
+            });
+        });
+
+        /*
+        //load more//
+        $(function () {
+            $("div").slice(0, 4).show(); // select the first 4
+            $("#load").click(function (e) { // click event for load more
+                e.preventDefault();
+                $("div:hidden").slice(0, 4).show(); // select next 4 hidden divs and show them
+                if ($("div:hidden").length == 0) { // check if any hidden divs still exist
+                    alert("No more divs"); // alert if there are none left
+                }
+            });
+        });
+        */
+    </script>

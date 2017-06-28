@@ -1,0 +1,73 @@
+﻿<!DOCTYPE html>
+
+<html>
+    <!-- Explorer -->
+    <head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<!-- For Mobiles -->
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>@ViewBag.Title</title>
+<link href="@Url.Content("~/Content/style.css")" rel="stylesheet" />
+    <link href="@Url.Content("~/Content/bootstrap.min.css")" rel="stylesheet" />
+    <link href="@Url.Content("~/Content/bootstrap.css")" rel="stylesheet" />
+
+    <script src="@Url.Content("~/Scripts/bootstrap.js")"></script>
+    <script src="@Url.Content("~/Scripts/bootstrap.min.js")"></script>
+    <script src="@Url.Content("~/Scripts/jquery-1.11.1.min.js")"></script>
+    <script src="@Url.Content("~/Scripts/html5shiv.min.js")"></script>
+    <script src="@Url.Content("~/Scripts/respond.min.js")"></script>
+            <script src="@Url.Content("~/Scripts/script.js")"></script>
+
+    <link href="@Url.Content("~/Content/styles.css")" rel="stylesheet" />
+    <link href="@Url.Content("~/Content/demo.css")" rel="stylesheet" />
+            <link href="@Url.Content("~/Content/header-user-dropdown.css")" rel="stylesheet" />
+	<link href='http://fonts.googleapis.com/css?family=Cookie' rel='stylesheet' type='text/css'>
+
+
+</head>
+<body class="beginn">
+      <header class="header-user-dropdown">
+
+        	<div class="header-limiter">
+		<h1><a href="#">Journal<span>logo</span></a></h1>
+
+		<nav>
+			<a href="#">Overview</a>
+			<a href="#">Surveys</a>
+			<a href="#">About US</a>
+			<a href="#">Contacts <span class="header-new-feature">new</span></a>
+		</nav>
+
+                <input type="text" placeholder="Search Here ..."/>
+		<div class="header-user-menu">
+			<img src="~/1.jpg" alt="User Image"/>
+
+			<ul>
+				<li><a href="#">Settings</a></li>
+				<li><a href="#">Payments</a></li>
+				<li><a href="#" class="highlight">Logout</a></li>
+			</ul>
+		</div>
+
+	</div>
+</header>
+    <div class="container">
+    <div class="Right-nav">
+        <ol>
+            <li>@Html.ActionLink("Home","index","Factory")</li>
+            <li>@Html.ActionLink("Admin Control Editors","admEditor","Factory")</li>
+            <li>@Html.ActionLink("Admin Control News","admNews","Factory")</li>
+            <li>@Html.ActionLink("Admin Control Edited News","admEditedNews","Factory")</li>
+            <li>@Html.ActionLink("Editor Control his News","EdiNews","Factory")</li>
+        </ol>
+    </div>
+       
+        @RenderBody()
+     </div>
+        <br /><br /><br /><br />
+        <div class="fo">
+             copyright &copy; FCIH Developers 2016 <br /> Internet Application Project
+        </div>
+       
+</body>
+</html>

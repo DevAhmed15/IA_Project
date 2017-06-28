@@ -1,0 +1,33 @@
+﻿@{
+    ViewBag.Title = "Start";
+}
+
+ <div class="container">
+  <div class="start">
+      <div class="row">
+          <div class="col-lg-6 col-xs-12">
+          <div class="logo"><img src="~/logo.jpg" />  </div>
+      </div>
+
+        <div class="col-lg-6 col-xs-12">
+        <h2>Welcome To Our WebSite</h2> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+            <input type="text" placeholder="Search Here ..." style="margin-left:250px;padding:10px;width:300px;height:40px;"/>
+      </div>
+      </div>
+      </div>
+                 <div class="content" >
+              <p class="a">- Web application (Desktop Application) which demonstrates a system that integrates the entire offline Movies and Animations magazine (documents) with the entire online Movies and Animations magazine (web sites) together
+                 <br /><br /> -	The Web application includes two layout:
+a.	First Layout: the User Layout and we will call it the Wall (all the Movies and Animations news exists here).
+b.	Second Layout: the Editor Layout and we will call it the Factory (news are conducted and edited here).
+
+              </p>
+              <p class="a">- Web application (Mobile Application) which demonstrates a system that integrates the entire offline Movies and Animations magazine (documents) with the entire online Movies and Animations magazine (web sites) together
+            	<br /><br />- Editors are responsible for Writing and adding articles from the Factory (it is like an Editor profile) then after the acceptance of the admin, the article reflected to the Wall so the user could see it
+              </p>
+                 </div>
+  <div class="foot">
+           @Html.ActionLink("Start","news","Wall") 
+
+  </div>
+    </div>

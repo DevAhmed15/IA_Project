@@ -1,0 +1,65 @@
+c:\users\tiger\documents\visual studio 2012\Projects\AI\AI\bin\AI.dll
+c:\users\tiger\documents\visual studio 2012\Projects\AI\AI\bin\AI.pdb
+c:\users\tiger\documents\visual studio 2012\Projects\AI\AI\bin\Microsoft.Web.Infrastructure.dll
+c:\users\tiger\documents\visual studio 2012\Projects\AI\AI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\tiger\documents\visual studio 2012\Projects\AI\AI\bin\Newtonsoft.Json.dll
+c:\users\tiger\documents\visual studio 2012\Projects\AI\AI\bin\System.Web.Helpers.dll
+c:\users\tiger\documents\visual studio 2012\Projects\AI\AI\bin\System.Web.Mvc.dll
+c:\users\tiger\documents\visual studio 2012\Projects\AI\AI\bin\System.Web.Razor.dll
+c:\users\tiger\documents\visual studio 2012\Projects\AI\AI\bin\System.Web.WebPages.Deployment.dll
+c:\users\tiger\documents\visual studio 2012\Projects\AI\AI\bin\System.Web.WebPages.dll
+c:\users\tiger\documents\visual studio 2012\Projects\AI\AI\bin\System.Web.WebPages.Razor.dll
+c:\users\tiger\documents\visual studio 2012\Projects\AI\AI\bin\Newtonsoft.Json.xml
+c:\users\tiger\documents\visual studio 2012\Projects\AI\AI\bin\System.Web.Helpers.xml
+c:\users\tiger\documents\visual studio 2012\Projects\AI\AI\bin\System.Web.Mvc.xml
+c:\users\tiger\documents\visual studio 2012\Projects\AI\AI\bin\System.Web.Razor.xml
+c:\users\tiger\documents\visual studio 2012\Projects\AI\AI\bin\System.Web.WebPages.xml
+c:\users\tiger\documents\visual studio 2012\Projects\AI\AI\bin\System.Web.WebPages.Deployment.xml
+c:\users\tiger\documents\visual studio 2012\Projects\AI\AI\bin\System.Web.WebPages.Razor.xml
+c:\users\tiger\documents\visual studio 2012\Projects\AI\AI\obj\Debug\AI.csprojResolveAssemblyReference.cache
+c:\users\tiger\documents\visual studio 2012\Projects\AI\AI\obj\Debug\AI.dll
+c:\users\tiger\documents\visual studio 2012\Projects\AI\AI\obj\Debug\AI.pdb
+E:\LEARN\3-2\Internet Application\Proj\AI\AI\bin\AI.dll
+E:\LEARN\3-2\Internet Application\Proj\AI\AI\bin\AI.pdb
+E:\LEARN\3-2\Internet Application\Proj\AI\AI\bin\Microsoft.Web.Infrastructure.dll
+E:\LEARN\3-2\Internet Application\Proj\AI\AI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\LEARN\3-2\Internet Application\Proj\AI\AI\bin\Newtonsoft.Json.dll
+E:\LEARN\3-2\Internet Application\Proj\AI\AI\bin\System.Web.Helpers.dll
+E:\LEARN\3-2\Internet Application\Proj\AI\AI\bin\System.Web.Mvc.dll
+E:\LEARN\3-2\Internet Application\Proj\AI\AI\bin\System.Web.Razor.dll
+E:\LEARN\3-2\Internet Application\Proj\AI\AI\bin\System.Web.WebPages.Deployment.dll
+E:\LEARN\3-2\Internet Application\Proj\AI\AI\bin\System.Web.WebPages.dll
+E:\LEARN\3-2\Internet Application\Proj\AI\AI\bin\System.Web.WebPages.Razor.dll
+E:\LEARN\3-2\Internet Application\Proj\AI\AI\bin\Newtonsoft.Json.xml
+E:\LEARN\3-2\Internet Application\Proj\AI\AI\bin\System.Web.Helpers.xml
+E:\LEARN\3-2\Internet Application\Proj\AI\AI\bin\System.Web.Mvc.xml
+E:\LEARN\3-2\Internet Application\Proj\AI\AI\bin\System.Web.Razor.xml
+E:\LEARN\3-2\Internet Application\Proj\AI\AI\bin\System.Web.WebPages.xml
+E:\LEARN\3-2\Internet Application\Proj\AI\AI\bin\System.Web.WebPages.Deployment.xml
+E:\LEARN\3-2\Internet Application\Proj\AI\AI\bin\System.Web.WebPages.Razor.xml
+E:\LEARN\3-2\Internet Application\Proj\AI\AI\obj\Debug\AI.dll
+E:\LEARN\3-2\Internet Application\Proj\AI\AI\obj\Debug\AI.pdb
+E:\LEARN\3-2\Internet Application\Proj\AI\AI\bin\AI.dll.config
+E:\LEARN\3-2\Internet Application\Proj\AI\AI\bin\AI.dll.CodeAnalysisLog.xml
+E:\LEARN\3-2\Internet Application\Proj\AI\AI\bin\AI.dll.lastcodeanalysissucceeded
+D:\WORK\FCIH\4-2\Internet Application\Proj\AI\AI\bin\AI.dll
+D:\WORK\FCIH\4-2\Internet Application\Proj\AI\AI\bin\AI.pdb
+D:\WORK\FCIH\4-2\Internet Application\Proj\AI\AI\bin\Microsoft.Web.Infrastructure.dll
+D:\WORK\FCIH\4-2\Internet Application\Proj\AI\AI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\WORK\FCIH\4-2\Internet Application\Proj\AI\AI\bin\Newtonsoft.Json.dll
+D:\WORK\FCIH\4-2\Internet Application\Proj\AI\AI\bin\System.Web.Helpers.dll
+D:\WORK\FCIH\4-2\Internet Application\Proj\AI\AI\bin\System.Web.Mvc.dll
+D:\WORK\FCIH\4-2\Internet Application\Proj\AI\AI\bin\System.Web.Razor.dll
+D:\WORK\FCIH\4-2\Internet Application\Proj\AI\AI\bin\System.Web.WebPages.Deployment.dll
+D:\WORK\FCIH\4-2\Internet Application\Proj\AI\AI\bin\System.Web.WebPages.dll
+D:\WORK\FCIH\4-2\Internet Application\Proj\AI\AI\bin\System.Web.WebPages.Razor.dll
+D:\WORK\FCIH\4-2\Internet Application\Proj\AI\AI\bin\Newtonsoft.Json.xml
+D:\WORK\FCIH\4-2\Internet Application\Proj\AI\AI\bin\System.Web.Helpers.xml
+D:\WORK\FCIH\4-2\Internet Application\Proj\AI\AI\bin\System.Web.Mvc.xml
+D:\WORK\FCIH\4-2\Internet Application\Proj\AI\AI\bin\System.Web.Razor.xml
+D:\WORK\FCIH\4-2\Internet Application\Proj\AI\AI\bin\System.Web.WebPages.xml
+D:\WORK\FCIH\4-2\Internet Application\Proj\AI\AI\bin\System.Web.WebPages.Deployment.xml
+D:\WORK\FCIH\4-2\Internet Application\Proj\AI\AI\bin\System.Web.WebPages.Razor.xml
+D:\WORK\FCIH\4-2\Internet Application\Proj\AI\AI\obj\Debug\AI.csprojResolveAssemblyReference.cache
+D:\WORK\FCIH\4-2\Internet Application\Proj\AI\AI\obj\Debug\AI.dll
+D:\WORK\FCIH\4-2\Internet Application\Proj\AI\AI\obj\Debug\AI.pdb

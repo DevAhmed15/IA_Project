@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+
+<html>
+    <!-- Explorer -->
+    <head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<!-- For Mobiles -->
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>@ViewBag.Title</title>
+<link href="@Url.Content("~/Content/style.css")" rel="stylesheet" />
+    <link href="@Url.Content("~/Content/bootstrap.min.css")" rel="stylesheet" />
+    <link href="@Url.Content("~/Content/bootstrap.css")" rel="stylesheet" />
+
+    <script src="@Url.Content("~/Scripts/bootstrap.js")"></script>
+    <script src="@Url.Content("~/Scripts/bootstrap.min.js")"></script>
+    <script src="@Url.Content("~/Scripts/jquery-1.11.1.min.js")"></script>
+    <script src="@Url.Content("~/Scripts/html5shiv.min.js")"></script>
+    <script src="@Url.Content("~/Scripts/respond.min.js")"></script>
+    </head>
+
+<body class="beginn">
+    <div>
+        @RenderBody()
+    </div>
+</body>
+</html>
